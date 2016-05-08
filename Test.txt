@@ -1,0 +1,3 @@
+I have developed a custom tcp adapter. Can you please deploy the RAR file to AS Java(DXI). Let me know the time of deployment and send me any errors if there are. The file to be deployed is attached.
+
+Deploy Custom TCP Adapter on AS Java DXI
